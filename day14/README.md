@@ -1,2 +1,2 @@
 Proof I found the tree:
-![tree](day14/treeeeeee.png)
+![tree](treeeeeee.png)
