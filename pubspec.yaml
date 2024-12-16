@@ -1,0 +1,7 @@
+name: advent_of_code
+
+environment:
+  sdk: '^3.5.0'
+
+dependencies:
+  collection:
