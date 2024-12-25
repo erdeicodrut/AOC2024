@@ -1,7 +1,7 @@
 import 'dart:io';
 
-const test = false;
-const iterations = 2000;
+const test = true;
+const iterations = 2000000000;
 
 void main(List<String> args) {
   final seeds = File(test ? 'test_input' : 'real_input')
